@@ -1833,7 +1833,7 @@
             "patterns": [
                 {
                     "name": "keyword.control.directive.fsharp",
-                    "match": "\\s?(#if|#elif|#elseif|#else|#endif|#light|#nowarn)",
+                    "match": "\\s?(#if|#elif|#elseif|#else|#endif|#light|#nowarn|#warnon)",
                     "captures": {}
                 }
             ]
